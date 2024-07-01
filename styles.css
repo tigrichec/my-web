@@ -1,0 +1,10 @@
+body{
+    background: url(images/photo_2024-07-01_15-30-21.jpg);
+    background-size: cover;
+}
+.menu{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: blanchedalmond;
+}
